@@ -1,4 +1,6 @@
-﻿65f5096 - 2026-06-02 : add self assemenet (quananh2503)
+﻿aa6c947 - 2026-06-02 : fix readme.md (quananh2503)
+8140a52 - 2026-06-02 : fix commit log (quananh2503)
+65f5096 - 2026-06-02 : add self assemenet (quananh2503)
 52f0261 - 2026-06-02 : docs: update exported git commit log (quananh2503)
 8117fd3 - 2026-06-02 : docs: complete final report with all verified requirements and signed templates (quananh2503)
 7c7db4b - 2026-06-02 : docs: add PDF report export (quananh2503)
