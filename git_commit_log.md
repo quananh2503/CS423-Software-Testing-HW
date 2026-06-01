@@ -1,4 +1,6 @@
-﻿aa6c947 - 2026-06-02 : fix readme.md (quananh2503)
+﻿0717a06 - 2026-06-02 : fix link JD (quananh2503)
+ad6a167 - 2026-06-02 : docs: rebuild PDF from updated README (quananh2503)
+aa6c947 - 2026-06-02 : fix readme.md (quananh2503)
 8140a52 - 2026-06-02 : fix commit log (quananh2503)
 65f5096 - 2026-06-02 : add self assemenet (quananh2503)
 52f0261 - 2026-06-02 : docs: update exported git commit log (quananh2503)
